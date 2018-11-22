@@ -51,8 +51,7 @@
     </dependencies>
 
     <build>
-        <sourceDirectory>src/main/kotlin</sourceDirectory>
-        <testSourceDirectory>src/test/kotlin</testSourceDirectory>
+        <sourceDirectory>src/lk/avix/ktor</sourceDirectory>
 
         <plugins>
             <plugin>
