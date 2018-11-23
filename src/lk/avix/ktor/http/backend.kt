@@ -1,4 +1,4 @@
-package lk.avix.ktor
+package lk.avix.ktor.http
 
 import io.ktor.application.call
 import io.ktor.http.ContentType
