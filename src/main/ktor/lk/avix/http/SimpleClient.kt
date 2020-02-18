@@ -1,4 +1,4 @@
-package lk.avix.ktor.http
+package lk.avix.http
 
 import io.ktor.client.HttpClient
 import io.ktor.client.engine.apache.Apache
